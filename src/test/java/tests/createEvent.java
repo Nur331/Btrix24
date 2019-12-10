@@ -7,4 +7,8 @@ public class createEvent {
   // thi line is added from github , see you in intellij  ;)
   
   }
+  public String hello(){
+  return  "Hello from Github";
+  }
+  
 }
