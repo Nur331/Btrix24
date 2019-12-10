@@ -13,4 +13,8 @@ public  void hi(){
 
 
 
+  public String hello(){
+  return  "Hello from Github";
+  }
+  
 }
