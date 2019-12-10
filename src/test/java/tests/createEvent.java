@@ -7,4 +7,10 @@ public class createEvent {
   // thi line is added from github , see you in intellij  ;)
   
   }
+public  void hi(){
+      System.out.println("Hi from Intellij");
+}
+
+
+
 }
